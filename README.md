@@ -1,5 +1,5 @@
 
-# Project Title
+# norgitChromExtension
 
 The chrome extension producing a menu in the pop-up that expands with extra menu options around the image in the pop-up. Images and links in this are stored with local storage in this version, and our user settable.
 
